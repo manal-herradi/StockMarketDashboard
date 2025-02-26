@@ -79,11 +79,11 @@ pip install -r requirements.txt
 
 - **Data Visualization:**  
   An interactive chart displaying the stock's closing price and its moving average.  
-  ![Data Visualization](screens/screenshot_dashboard_home.png)
+  ![Data Visualization](https://github.com/manal-herradi/images/blob/main/screenshot_dashboard_home.png)
 
 - **Raw Data Display:**  
   A table view of the raw stock data retrieved for analysis.  
-  ![Raw Data](screens/screenshot_raw_data.png)
+  ![Raw Data](https://github.com/manal-herradi/images/blob/main/screenshot_raw_data.png)
 
 ## Conclusion
 
